@@ -1,2 +1,2 @@
 # iTunesSearchApi
-Basic iTunes Search API Example
+Basic iTunes Search API Example using REACT
